@@ -1,4 +1,12 @@
+{
+	"cmd":["python3","-u","$file"]
+}
+import pygame
+from pygame import sprite
+
 #retest
+
+
  
 
 
